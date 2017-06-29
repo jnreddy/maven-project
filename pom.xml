@@ -161,6 +161,7 @@
             <groupId>org.apache.derby</groupId>
             <artifactId>derby</artifactId>
             <version>${derby.version}</version>
+            
         </dependency>
     </dependencies>
 
@@ -168,7 +169,7 @@
           <repository>
             <id>Central</id>
             <name>Central</name>
-            <url>http://repo1.maven.org/maven2/</url>
+            <url>http://repository.mulesoft.org/releases/</url>
             <layout>default</layout>
         </repository>
         <repository>
